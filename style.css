@@ -1,0 +1,12 @@
+.body {
+	margin: 0px;
+	padding: 0px;
+}
+
+li {
+	font-family: arial;
+	font-weight: bolder;
+	list-style: none;
+	text-decoration: none;
+	text-transform: uppercase;
+}
